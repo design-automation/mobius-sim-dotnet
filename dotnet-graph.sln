@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphCollection", "GraphCollection\Graph.csproj", "{E6DC3BA9-272C-488F-99B5-5078502B18BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphCollection", "GraphCollection\GraphCollection.csproj", "{E6DC3BA9-272C-488F-99B5-5078502B18BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTest", "GraphTest\GraphTest.csproj", "{ED56A830-63F3-4232-8677-28B3F4379516}"
 EndProject
